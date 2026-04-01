@@ -30,7 +30,6 @@ file(GLOB_RECURSE SOURCE_FILES CONFIGURE_DEPENDS
 
 file(GLOB_RECURSE HEADER_FILES CONFIGURE_DEPENDS
     "${INC_DIR}/*.h"
-    "${INC_DIR}/*.hpp"
 )
 
 add_executable(TemplateSFML
