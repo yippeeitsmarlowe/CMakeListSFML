@@ -135,9 +135,11 @@ cmake -S . -B build
 
 ## License
 
-MIT recommended
+MIT
 
 ## Credits
 
 - SFML
 - CMake
+- Marlowe Baker
+- University of The West of England, Bristol
