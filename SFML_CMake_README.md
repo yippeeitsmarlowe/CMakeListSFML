@@ -141,5 +141,4 @@ MIT
 
 - SFML
 - CMake
-- Marlowe Baker
-- University of The West of England, Bristol
+- Marlowe Baker, UWE Bristol Student
